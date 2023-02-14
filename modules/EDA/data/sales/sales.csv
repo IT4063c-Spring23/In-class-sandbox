@@ -1,0 +1,23 @@
+Order ID,Product,Quantity,Price,Customer Name,Address,State,Date
+1001,Product A,2,10.99,Customer 1,123 Main St,OH,2022-01-01
+1002,Product B,1,,Customer 2,456 Elm St,OH,2022-01-02
+1003,Product A,3,10.99,Customer 3,789 Oak St,KY,2022-01-03
+1004,Product C,1,25.99,Customer 4,1011 Pine St,OH,2022-01-04
+1005,Product B,2,15.99,Customer 1,123 Main St,OH,2022-01-05
+1006,Product A,1,10.99,Customer 2,456 Elm St,OH,2022-01-06
+1007,Product D,2,35.99,Customer 3,789 Oak St,OH,2022-01-07
+1007,Product D,2,35.99,Customer 3,789 Oak St,KY,2022-01-07
+1008,Product B,1,15.99,Customer 4,1011 Pine St,OH,2022-01-08
+1009,Product E,2,45.99,Customer 1,123 Main St,OH,2022-01-09
+1010,Product A,3,10.99,Customer 2,456 Elm St,OH,2022-01-10
+1011,Product B,1,15.99,Customer 3,789 Oak St,KY,2022-01-11
+1012,Product C,2,25.99,,1011 Pine St,OH,2022-01-12
+1013,Product A,1,10.99,Customer 1,123 Main St,OH,2022-01-13
+1014,Product D,2,,Customer 2,456 Elm St,OH,2022-01-14
+1015,Product B,1,15.99,Customer 3,,OH,2022-01-15
+1016,Product E,3,45.99,Customer 4,1011 Pine St,OH,2022-01-16
+1017,Product A,2,10.99,,789 Oak St,KY,2022-01-17
+1018,Product C,1,25.99,Customer 1,123 Main St,OH,2022-01-18
+1019,Product B,3,15.99,Customer 2,456 Elm St,OH,
+1020,Product F,2,10.99,Customer 1,123 Main St,OH,2022-01-19
+1021,Product F,2,10.99,Customer 1,123 Main St,OH,2022-01-19

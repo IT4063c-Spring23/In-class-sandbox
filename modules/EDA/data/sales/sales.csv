@@ -6,7 +6,7 @@ Order ID,Product,Quantity,Price,Customer Name,Address,State,Date
 1005,Product B,2,15.99,Customer 1,123 Main St,OH,2022-01-05
 1006,Product A,1,10.99,Customer 2,456 Elm St,OH,2022-01-06
 1007,Product D,2,35.99,Customer 3,789 Oak St,OH,2022-01-07
-1007,Product D,2,35.99,Customer 3,789 Oak St,KY,2022-01-07
+1007,Product D,2,35.99,Customer 3,789 Oak St,OH,2022-01-07
 1008,Product B,1,15.99,Customer 4,1011 Pine St,OH,2022-01-08
 1009,Product E,2,45.99,Customer 1,123 Main St,OH,2022-01-09
 1010,Product A,3,10.99,Customer 2,456 Elm St,OH,2022-01-10
